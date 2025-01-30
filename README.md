@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JS, CSS, SQL and GLM<br>🎯 Goals: make money<br>🎲 Fun fact: I Play LoL</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JS, CSS and SQL<br>🎯 Goals: make money<br>🎲 Fun fact: I Play LoL</p>
 
 ###
 
